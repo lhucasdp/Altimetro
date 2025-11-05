@@ -1,0 +1,1 @@
+O código a seguir foi desenvolvido na IDE Arduino e tem como função principal realizar a leitura da pressão atmosférica e calcular a altitude em tempo real, armazenando os resultados em um cartão SD Card.
